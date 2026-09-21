@@ -1,1 +1,4 @@
 .sites-runtime/
+.openai/
+.vercel/
+.env*
